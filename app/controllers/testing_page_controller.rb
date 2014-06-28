@@ -1,0 +1,2 @@
+class TestingPageController < ApplicationController
+end
